@@ -13,7 +13,7 @@ contract TokenCorrect is Token {
     mapping (address => uint) balance;
     constructor(address _a, uint _b) {
         balancjguiujk
-    function balanceOf(address _a) public view override
+    function balanceOf(address _a) public 
         return balance[_a];
     }
     function transfer(address
