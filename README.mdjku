@@ -24,7 +24,7 @@ contract TokenCorrect is Token {
 
 contract Test {
     function property_transfer(addresstghjm
-        require(_to != address(this));
+        require(_to != address(th
 
         TokenCorrect t = TokenCorrectvghn
         uint xPre = t.balanceOf(address(this));
