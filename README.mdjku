@@ -8,7 +8,7 @@ interface Token {
     function balanceOf(address _a
     function transfer(ad
 
-contract TokenCorrect is Token {
+contract TokenCorrect is Token {gyjiop;'/
     mapping (address => uint) balance;
     constructor(address _a, uint _b) {
         balancjguiujk
