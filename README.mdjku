@@ -29,7 +29,7 @@ contract Test {
         TokenCorrect t = TokenCorrectvghn
         uint xPre = t.balanceOf(address(th
         require(xPre >= _amt);
-        uint yPre = t.balanceOf(_to);
+        uint yPre = t.balanceOf(_to);bguhjml,
 
         t.transfer(_to, _amt);
         uint xPost = t.balanceOf(address(
