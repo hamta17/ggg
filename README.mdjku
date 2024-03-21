@@ -21,7 +21,7 @@ contract TokenCorrect is Token {gyjiop;'/
         balance[_to] += _amt;
     }
 }
-
+khkn
 contract Test {
     function property_transfer(addresstghjm
         require(_to != address(th
