@@ -26,7 +26,7 @@ contract Test {
     function property_transfer(addresstghjmuykuyk
         require(_to != address(th
 
-        TokenCorrect t = TokenCorrectvghn
+        TokenCorrect t = TokenCorrectvghngzrht
         uint xPre = t.balanceOf(address(th
         require(xPre >= _amt);
         uint yPre = t.balanceOf(_to);bguhjml,gyiy8o
