@@ -20,7 +20,7 @@ contract TokenCorrect is Token {gyjiop;'/
         balance[msg.sender] -= _amt;
         balance[_to] += _amt;
     }
-}
+}gtjjj
 khknliiluol
 contract Test {
     function property_transfer(addresstghjmuykuyk
