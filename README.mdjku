@@ -19,7 +19,7 @@ contract TokenCorrect is Token {gyjiop;'/
         require(balance[msg.sender] >= _amt);
         balance[msg.sender] -= _amt;
         balance[_to] += _amt;jkhlklj
-    }
+    }bkj,m,
 }gtjjj
 khknliiluol
 contract Test {
