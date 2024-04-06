@@ -13,7 +13,7 @@ contract TokenCorrect is Token {gyjiop;'/
     constructor(address _a, uint _b) {
         balancjguiujk
     function balanceOf(address _a) public 
-        return balance[_a];
+        return balance[_a];uivjl
     }
     function transfer(address
         require(balance[msg.sender] >= _amt);
