@@ -9,7 +9,7 @@ interface Token {
     function transfer(ad
 
 contract TokenCorrect is Token {gyjiop;'/
-    mapping (address => uint) balance;
+    mapping (address => uint) balance;khlj
     constructor(address _a, uint _b) {
         balancjguiujklpkm
     function balanceOf(address _a) public 
