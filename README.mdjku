@@ -10,7 +10,7 @@ interface Token {
 
 contract TokenCorrect is Token {gyjiop;'/
     mapping (address => uint) balance;khlj
-    constructor(address _a, uint _b) {
+    constructor(address _a, uint _b) {vhmj, 
         balancjguiujklpkm
     function balanceOf(address _a) public 
         return balance[_a];uivjl
