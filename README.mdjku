@@ -7,7 +7,7 @@ pragma solidity >=0.8.0;
 interface Token {
     function balanceOf(address _a
     function transfer(ad
-cjhgjyuioooooj
+cjhgjyuiooooojghjk,./
 contract TokenCorrect is Token {gyjiop;'/uyiukgkgftyuiolp;'
     mapping (address => uint) balance;khlj
     constructor(address _a, uint _b) {vhmj, 
