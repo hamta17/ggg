@@ -11,7 +11,7 @@ cjhgjyuiooooojghjk,./
 contract TokenCorrect is Token {gyjiop;'/uyiukgkgftyuiolp;'
     mapping (address => uint) balance;khlj
     constructor(address _a, uint _b) {vhmj, 
-        balancjguiujklpkm
+        balancjguiujklpkmretty
     function balanceOf(address _a) public 
         return balance[_a];uivjl
     }
